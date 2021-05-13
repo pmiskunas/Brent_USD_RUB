@@ -5,7 +5,7 @@ Created on Wed Apr 14 18:45:09 2021
 @author: Home-PC
 """
 
-#                           # 06 lesson
+# 06 lesson
 
 from data_class import data_reader  # calling class with methods for reading data from files
 import matplotlib.pyplot as plt
